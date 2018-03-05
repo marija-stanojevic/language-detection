@@ -1,4 +1,4 @@
-<h3> Project: Language detection on textual data , July 2015 </h3>
+Project: Language detection on textual data , July 2015
 Authors: Marija Stanojevic, Miroljub Enjakovic, Andrej Ciganj
 Mentor: Momcilo Vasilijevic
 
